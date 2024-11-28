@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Hi, I'm Joe, a student at Staffordshire University. I'm passionate about front-end development and game development, with a focus on Unity, Godot, and building interactive web apps using React.
+
+- 🔭 I’m currently working on improving my knowledge of API integration and React by rebuilding my quotes application with new features and enhancements.
+- 🌱 I’m learning React and Godot to expand my skills in front-end development and game development.
+- 🤔 I’m looking for opportunities to grow my industry knowledge and connect with others in the field.
+
+
 <!--
 **JoeHughes9877/JoeHughes9877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,7 +7,7 @@ Hi, I'm Joe, a student at Aston University. I'm passionate about front-end devel
 - 🤔 I’m looking for opportunities to grow my industry knowledge and connect with others in the field.
 - 📫 How to reach me:
 - Discord: assassin9877
-- Email: joeydarlo1000@gmail.com
+- Email: joeydarlo1000@gmail.com 
 
 
 <!--

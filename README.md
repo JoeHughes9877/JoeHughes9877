@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Joe, a student at Staffordshire University. I'm passionate about front-end development, with a focus building interactive web apps using React.
+Hi, I'm Joe, a student at Aston University. I'm passionate about front-end development, with a focus building interactive web apps using React.
 
 - 🔭 I’m currently working on improving my knowledge of API integration and React by rebuilding my quotes application with new features and enhancements.
 - 🌱 I’m learning React to expand my skills in front-end development and game development.

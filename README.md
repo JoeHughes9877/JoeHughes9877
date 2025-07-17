@@ -1,11 +1,5 @@
-## Hi there 👋
 
-Hi, I'm Joe, a student at Aston University. I'm passionate about back-end development and enjoy programming in C. I'm particularly interested in building real-world applications that involve data processing and logic-heavy functionality.
-
-- 🔭 I’m currently working on small projects using C and Python, with a focus on problem-solving and foundational computer science concepts.
-- 🌱 I’m currently learning more about systems programming and strengthening my understanding of data structures and algorithms by implementing them from scratch in C.
-- 🤔 I’m looking for help with writing better C code and deepening my knowledge of low-level programming concepts.
-- 📫 How to reach me:
+  👋 -Hi, I'm Joe, a student at Aston University. I'm passionate about back-end development and enjoy programming in C. I'm particularly interested in building real-world applications that involve data processing and logic-heavy functionality.
   - Discord: assassin9877
   - Email: joeydarlo1000@gmail.com 
 

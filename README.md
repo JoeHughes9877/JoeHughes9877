@@ -1,17 +1,4 @@
 
-  👋 -Hi, I'm Joe, a student at Aston University. I'm passionate about back-end development and enjoy programming in C. I'm particularly interested in building real-world applications that involve data processing and logic-heavy functionality.
-  - Discord: assassin9877
-  - Email: joeydarlo1000@gmail.com 
-
-<!--
-**JoeHughes9877/JoeHughes9877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+  👋  -Hi, I'm Joe, a student at Aston University. I'm passionate about back-end development and enjoy programming in C. I'm particularly interested in building real-world applications that involve data processing and logic-heavy functionality.
+      - Discord: assassin9877
+      - Email: joeydarlo1000@gmail.com 
